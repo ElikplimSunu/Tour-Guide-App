@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="listitem_image_width">300dp</dimen>
+	<dimen name="listitem_image_height">200dp</dimen>
+	<dimen name="home_image_height">350dp</dimen>
+	<dimen name="home_image_width">350dp</dimen>
+	<dimen name="card_margin">8dp</dimen>
+	<dimen name="contact_text_size">18sp</dimen>
+	<dimen name="summary_text_size">20sp</dimen>
+	<dimen name="time_text_size">16sp</dimen>
+	<dimen name="name_text_size">32sp</dimen>
+	<dimen name="icon_width">60dp</dimen>
+	<dimen name="photos_margin_top">50dp</dimen>
+	<dimen name="listitem_card_margin">4dp</dimen>
+	<dimen name="contact_text_margin">2dp</dimen>
+</resources>

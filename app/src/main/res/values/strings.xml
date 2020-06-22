@@ -1,0 +1,215 @@
+<resources>
+	<string name="app_name">Tour Guide App</string>
+
+	<!--String to populate summary of Ho  -->
+	<string name="ho_summary">Ho is the capital city of the Ho Municipal District
+		and the Volta Region of Ghana.
+		The city lies between Mount Adaklu and Mount Galenukui or Togo Atakora Range, and is
+		home to the Volta Regional Museum, a cathedral, and a prison. It was formerly the
+		administrative capital of British Togoland now part of the Volta Region. The population
+		of Ho Municipality according to the 2010 Population and Housing Census is 177,281
+		representing 8.4 percent of the region\'s total population. Females constitute 52.7
+		percent and males represent 47.3 percent.  About 62 percent of the population resides
+		in urban localities. The Municipality shares boundaries with Adaklu and Agotime-Ziope
+		Districts to the South, Ho West District to the North and West and the Republic of Togo
+		to the East. Its total land area is 2,361 square kilometers (912 sq mi)
+		thus representing 11.5 percent of the region\'s total land area.
+	</string>
+
+	<string name="museum_summary">
+		The Volta Regional Museum is a museum in Ho, Ghana. Established in 1973, it focuses
+		on ethnographic history.
+		Before it was used as a museum, the building served as the Office of the Regional House of
+		Chiefs. The building was sold to the government in 1967 and the museum was opened in 1973.
+		Exhibits on display at the museum include local paintings, the Chair of State of the last
+		German colonial governor, woodcraft and pottery, Volta Region Kente designs, masks, chiefs\’
+		stools, swords, and displays on Asante fetish shrines.
+	</string>
+	<string name="museum_name">Volta Regional Museum</string>
+	<string name="museum_category">Museum</string>
+	<string name="museum_opentime">
+		Monday: 8am–5pm\n\
+		(Easter Monday): Hours might differ\n\
+		Tuesday: 8am–5pm\n\
+		Wednesday: 8am–5pm\n\
+		Thursday: 8am–5pm\n\
+		Friday: 8am–5pm\n\
+		(Good Friday): Hours might differ\n\
+
+	</string>
+	<string name="museum_location">geo:6.608704, 0.468790?q=6.608704, 0.468790</string>
+	<string name="museum_contact">020 221 0109</string>
+	<string name="hotel1_name">Freedom Hotel</string>
+	<string name="hotel_category">Hotel</string>
+	<string name="hotel1_timeopen">Always Open</string>
+	<string name="hotel1_contact">0362028151</string>
+	<string name="hotel1_location">geo:6.625003,0.474899?q=6.625003,0.474899</string>
+	<string name="hotel2_name">Volta Serene Hotel</string>
+	<string name="hotel2_timeopen">
+		Monday: Open 24 hours\n\
+		(Easter Monday): Hours might differ\n\
+		Tuesday: Open 24 hours\n\
+		Wednesday: Open 24 hours\n\
+		Thursday: Open 24 hours\n\
+		Friday: Open 24 hours\n\
+		(Good Friday): Hours might differ\n\
+		Saturday: Open 24 hours\n\
+		Sunday: Open 24 hours</string>
+	<string name="hotel2_contact">0362025243</string>
+	<string name="hotel2_location">geo:6.614839,0.454688?q=6.614839,0.454688</string>
+	<string name="hotel3_name">Skyplus Hotel and Resort</string>
+	<string name="hotel3_timeopen">
+		Monday: Open 24 hours\n\
+		(Easter Monday): Hours might differ\n\
+		Tuesday: Open 24 hours\n\
+		Wednesday: Open 24 hours\n\
+		Thursday: Open 24 hours\n\
+		Friday: Open 24 hours\n\
+		(Good Friday): Hours might differ\n\
+		Saturday: Open 24 hours\n\
+		Sunday: Open 24 hours</string>
+	<string name="hotel3_location">geo:6.614544,0.451615?q=6.614544,0.451615</string>
+	<string name="hotel3_contact">0208113379</string>
+	<string name="hotel4_name">Chances hotel</string>
+	<string name="hotel4_timeopen">
+		Monday: Open 24 hours
+		(Easter Monday): Hours might differ\n\
+		Tuesday: Open 24 hours\n\
+		Wednesday: Open 24 hours\n\
+		Thursday: Open 24 hours\n\
+		Friday: Open 24 hours\n\
+		(Good Friday): Hours might differ\n\
+		Saturday: Open 24 hours\n\
+		Sunday: Open 24 hours</string>
+	<string name="hotel4_location">geo:6.601212,0.447327?q=6.601212,0.447327</string>
+	<string name="hotel4_contact">0362028344</string>
+	<string name="park_timeopen">
+		Monday: 8am–5pm\n\
+		(Easter Monday): Hours might differ\n\
+		Tuesday: 8am–5pm\n\
+		Wednesday: 8am–5pm\n\
+		Thursday: 8am–5pm\n\
+		Friday: 8am–5pm\n\
+		(Good Friday): Hours might differ</string>
+	<string name="park_category">Park</string>
+	<string name="park_name">Department of Parks and Gardens</string>
+	<string name="park_location">geo:6.605417,0.465541?q=6.605417,0.465541</string>
+	<string name="park_contact">0300934567</string>
+	<string name="restaurant1_name">KCS Downtown</string>
+	<string name="restaurant_category">Restaurant</string>
+	<string name="restaurant1_timeopen">
+		Monday: 7am–12am\n\
+		(Easter Monday): Hours might differ\n\
+		Tuesday: 7am–12am\n\
+		Wednesday: 7am–12am\n\
+		Thursday: 7am–12am\n\
+		Friday: 7am–12am\n\
+		(Good Friday): Hours might differ\n\
+		Saturday: 7am–12am\n\
+		Sunday: 12pm–12am</string>
+	<string name="restaurant1_contact">0207040558</string>
+	<string name="restaurant1_location">geo:6.614228,0.469485?q=6.614228,0.469485</string>
+	<string name="restaurant2_name">Christian Garden Restaurant</string>
+	<string name="restaurant2_timeopen">
+		Monday: 7am–12am\n\
+		(Easter Monday): Hours might differ\n\
+		Tuesday: 7am–12am\n\
+		Wednesday: 7am–12am\n\
+		Thursday: 7am–12am\n\
+		Friday: 7am–12am\n\
+		(Good Friday): Hours might differ\n\
+		Saturday: 7am–12am\n\
+		Sunday: 12pm–12am</string>
+	<string name="restaurant2_contact">0362290043</string>
+	<string name="restaurant2_location">geo:6.597706,0.485606?q=6.597706,0.485606</string>
+	<string name="restaurant3_name">Roliz Pizza</string>
+	<string name="restaurant3_timeopen">
+		Monday: Open 24 hours\n\
+		(Easter Monday): Hours might differ\n\
+		Tuesday: Open 24 hours\n\
+		Wednesday: Open 24 hours\n\
+		Thursday: Open 24 hours\n\
+		Friday: Open 24 hours\n\
+		(Good Friday): Hours might differ\n\
+		Saturday: Open 24 hours\n\
+		Sunday: Open 24 hours</string>
+	<string name="restaurant3_location">geo:6.594159,0.471800?q=6.594159,0.471800</string>
+	<string name="restaurant3_contact">0554507942</string>
+	<string name="restaurant4_name">Makel Restaurant</string>
+	<string name="restaurant4_timeopen">
+		Monday: 7am–12am\n\
+		(Easter Monday): Hours might differ\n\
+		Tuesday: 7am–12am\n\
+		Wednesday: 7am–12am\n\
+		Thursday: 7am–12am\n\
+		Friday: 7am–12am\n\
+		(Good Friday): Hours might differ\n\
+		Saturday: 7am–12am\n\
+		Sunday: 12pm–12am</string>
+	<string name="restaurant4_contact">0201791071</string>
+	<string name="restaurant4_location">geo:6.601343,0.496350?q=6.601343,0.496350</string>
+	<string name="site1_name">Tafi Atome Monkey Sanctuary And Cultural Village</string>
+	<string name="site_category">Attraction</string>
+	<string name="site1_timeopen">Always Open</string>
+	<string name="site1_location">geo:6.903991,0.384841?q=6.903991,0.384841</string>
+	<string name="site1_contact">0205837687</string>
+
+	<string name="site1_summary">For the past two centuries, the monkeys are found
+		living in the tropical forest around the small village of Tafi-Atome and have been
+		sacred because it was believed they were messengers to the gods. In 1996, the village
+		began broader efforts to protect their forest and monkeys, as well as to offer tours for
+		visitors. The sanctuary was created by a coalition of villagers, public institutions and
+		NGO. As a result of these efforts, the monkey population has increased, and the forest with
+		its many species of birds and butterflies has been preserved.</string>
+
+	<string name="site2_name">Wli Waterfalls</string>
+	<string name="site2_timeopen">8am - 6pm Everyday</string>
+
+	<string name="site2_summary">The Wli waterfalls is the highest water fall in West Africa The falls is
+		known locally as Agumatsa waterfalls - meaning, "Allow Me to Flow." It is located in the Hohoe
+		municipality of the Volta Region, the land of the Ewe culture. It is approximately 280 kilometers
+		from the capital Accra.</string>
+
+	<string name="site2_contact">0246880185</string>
+
+	<string name="site2_location">geo:7.117404, 0.590588?q=7.117404, 0.590588</string>
+
+	<string name="site3_name">Mountain Afadja ( mountain peak)</string>
+
+	<string name="site3_timeopen">Always Open</string>
+
+	<string name="site3_location">geo:7.022131, 0.561986?q=7.022131, 0.561986</string>
+
+	<string name="site3_contact">0557901695</string>
+
+	<string name="site3_summary">Mount Afadja is the highest mountain in Ghana with the height of 885 metres
+		and 2,904 ft above sea level. The mountain derives its name from the Ewe Word “Avadzeto” which means
+		at war with the Bush. \'Afadja\' is the name of the mountain whereas \'to\' in the Ewe dialect means
+		mountain therefore it is called \'Afadjato\' by the indigenes. The correct name would be \'Mount Afadja\' as
+		\'Mount Afadjato\' will be a repetition of the \'Mountain.\' The mountain is located in the Agumatsa
+		Range near the villages of Gbledi and Liati Wote. The lush green mountains of the ridge mark the country\'s
+		border with Togo.[</string>
+
+	<string name="site4_name">Mountain Gemi (Amedzofe)</string>
+
+	<string name="site4_timeopen">Always Open</string>
+
+	<string name="site4_contact">0557564695</string>
+
+	<string name="site4_location">geo:6.845733, 0.436536?q=6.845733, 0.436536</string>
+
+	<string name="site4_summary">Amedzofe is a settlement north of Ho in the mountainous region of the Ho Municipal
+		District of the Volta Region of Ghana. It is presently located in the newly created Ho-West District Assembly.
+		Amedzofe is a settlement in the mountains, and can boast of four natural gifts: the Ote [otay] Falls, Mount Gemi,
+		the weather and the landscape. It has played a role in the 19th-century Anglo-Ashanti Wars. The Amedzofe Training
+		School was built in 1880 by German missionaries. It is at an altitude of 677 metres, (3275 feet) above sea level.</string>
+	<string name="contact">Contact:  </string>
+	<string name="time_open">Time Open : </string>
+	<string name="call">Call</string>
+	<string name="location">Location</string>
+	<string name="some_photos_of_ho">Some Photos of Ho</string>
+
+	<string name="about_ho">Ho</string>
+	<string name="history_about_ho">A Quick Fact About Ho</string>
+
+</resources>
